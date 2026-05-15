@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=dubeyankur2005&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
@@ -43,6 +47,16 @@ class Developer {
 - 🌱 I’m currently learning **DSA, React, Node.js and Express.js**
 - 💬 Ask me about **Java, DSA, HTML, CSS, JavaScript, React**
 - ⚡ Fun fact: **I love solving problems and building projects**
+
+---
+## 🛣️ My Developer Journey
+
+- ✅ Started with C programming
+- ✅ Learned Java basics
+- ✅ Started Data Structures and Algorithms
+- 🔄 Learning React.js
+- 🔄 Learning Node.js and Express.js
+- 🎯 Goal: Become a strong Full Stack Java Developer
 
 ---
 
@@ -100,4 +114,10 @@ class Developer {
 
 ## 📈 Contribution Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=dubeyankur2005&theme=tokyo-night&hide_border=true" /> </p>
+
+## ✨ Developer Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
 <h3 align="center"> ⭐ Code. Learn. Build. Repeat. ⭐ </h3>
