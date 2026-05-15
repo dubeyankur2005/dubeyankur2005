@@ -66,7 +66,7 @@ class Developer {
 
 <p align="center">
 
-  <a href="YOUR_LINKEDIN_PROFILE_LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/ankur-dubey-098525404/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ankur%20Dubey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
@@ -121,3 +121,9 @@ class Developer {
 </p>
 
 <h3 align="center"> ⭐ Code. Learn. Build. Repeat. ⭐ </h3>
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dubeyankur2005/dubeyankur2005/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
