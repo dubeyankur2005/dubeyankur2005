@@ -87,6 +87,12 @@ class Developer {
 ## 💻 Most Used Languages
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubeyankur2005&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/AnkurDubey2005?theme=dark&font=Karma&ext=heatmap" />
+</p>
+
 
 ## 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=dubeyankur2005&theme=tokyonight&no-frame=true&row=1&column=6" /> </p>
