@@ -49,7 +49,30 @@ class Developer {
 
 
 ## 🌐 Connect With Me
-<p align="center"> <a href="YOUR_LINKEDIN_LINK" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="YOUR_LEETCODE_LINK" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> <a href="YOUR_GFG_LINK" target="_blank"> <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> </a> </p> 
+
+<p align="center">
+
+  <a href="YOUR_LINKEDIN_PROFILE_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ankur%20Dubey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/AnkurDubey2005/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-AnkurDubey2005-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/profile/dubeyanka7mv" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+
+  <a href="https://joinsuperset.com" target="_blank">
+    <img src="https://img.shields.io/badge/Superset-Profile-6C63FF?style=for-the-badge&logo=apache&logoColor=white"/>
+  </a>
+
+  <a href="mailto:dubeyankur6961@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+</p>
 
 ## 🛠️ Tech Stack
 <p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <br/> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <br/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> </p>
