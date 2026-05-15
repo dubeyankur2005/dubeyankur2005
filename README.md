@@ -98,8 +98,6 @@ class Developer {
 
 </p>
 
-## 💻 Most Used Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubeyankur2005&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
 ## 🧠 LeetCode Stats
 
@@ -107,6 +105,13 @@ class Developer {
   <img src="https://leetcard.jacoblin.cool/AnkurDubey2005?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
+## 🟢 GeeksforGeeks Stats
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/dubeyanka7mv" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-dubeyanka7mv-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" />
+  </a>
+</p>
 
 ## 🏆 GitHub Trophies
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=dubeyankur2005&theme=tokyonight&no-frame=true&row=1&column=6" /> </p>
