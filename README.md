@@ -105,6 +105,21 @@ class Developer {
   <img src="https://leetcard.jacoblin.cool/AnkurDubey2005?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
+## 🏆 Certifications
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/hackerrank-certificate.png" width="400px" alt="HackerRank Certificate"/><br><br>
+      <b>HackerRank Certificate</b><br>
+      <b>Organization:</b> HackerRank<br><br>
+      <a href="https://www.hackerrank.com/certificates/f7f60c68304c" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Certificate-Click%20Here-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## 🟢 GeeksforGeeks Stats
 
 <p align="center">
