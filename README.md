@@ -107,18 +107,19 @@ class Developer {
 
 ## 🏆 Certifications
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="assets/hackerrank-certificate.png" width="400px" alt="HackerRank Certificate"/><br><br>
-      <b>HackerRank Certificate</b><br>
-      <b>Organization:</b> HackerRank<br><br>
-      <a href="https://www.hackerrank.com/certificates/f7f60c68304c" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Certificate-Click%20Here-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.hackerrank.com/certificates/f7f60c68304c">
+    <img src="https://img.shields.io/badge/Java-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+
+  <a href="CERTIFICATE_LINK_2">
+    <img src="https://img.shields.io/badge/Python-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+
+  <a href="CERTIFICATE_LINK_3">
+    <img src="https://img.shields.io/badge/SQL-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
 
 ## 🟢 GeeksforGeeks Stats
 
