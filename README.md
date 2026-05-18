@@ -134,8 +134,8 @@ class Developer {
     <img src="https://img.shields.io/badge/Java-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 
-  <a href="CERTIFICATE_LINK_2">
-    <img src="https://img.shields.io/badge/Python-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <a href="https://www.hackerrank.com/certificates/16b36889f33f">
+    <img src="https://img.shields.io/badge/JavaScript-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 
   <a href="CERTIFICATE_LINK_3">
