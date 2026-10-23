@@ -75,24 +75,29 @@ class Developer {
 </table>
 
 ---
-
 ## 🚀 My Developer Journey
 
 <p align="center">
   <img src="https://img.shields.io/badge/01-C%20Programming-2563EB?style=for-the-badge"/>
   →
-  <img src="https://img.shields.io/badge/02-Java%20Basics-F59E0B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/02-Java%20Development-F59E0B?style=for-the-badge"/>
   →
   <img src="https://img.shields.io/badge/03-DSA-7C3AED?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/04-React-06B6D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/04-Full%20Stack%20Development-06B6D4?style=for-the-badge"/>
   →
-  <img src="https://img.shields.io/badge/05-Node.js%20%26%20Express-16A34A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/05-System%20Design-0EA5E9?style=for-the-badge"/>
   →
-  <img src="https://img.shields.io/badge/06-Real%20World%20Projects-EC4899?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/06-Forward%20Deployed%20Engineering-EC4899?style=for-the-badge"/>
 </p>
+
+<p align="center">
+  <b>🎯 Current Focus: System Design • Forward Deployed Engineering (FDE) • Building Real-World Projects</b>
+</p>
+
+---
 
 ---
 
@@ -114,18 +119,21 @@ class Developer {
   </a>
 </p>
 
-**YouTube Study Tracker**
+**YouTube Study Tracker with Study Mode**
 
-A browser extension and dashboard designed to track YouTube viewing activity, categorize study and entertainment videos, and analyze learning time.
+StudyGuard helps users manage YouTube learning sessions, track study activity, and distinguish educational content from entertainment.
+
+**⭐ Main Feature: Study Mode**
+
+- 🎯 Dedicated mode for focused YouTube learning sessions
+- 📚 Track study videos and learning time
+- 📊 Categorize study and entertainment activity
+- 📈 Monitor progress through an analytics dashboard
+- 🔐 User authentication for personalized tracking
 
 **Tech Stack**
 
-`React` `Node.js` `Express.js` `MongoDB`
-
-- Track video activity
-- Categorize study content
-- Analyze study time
-- View analytics on a dashboard
+`React` `Node.js` `Express.js` `MongoDB` `Chrome Extension`
 
 <p align="center">
   <a href="https://github.com/dubeyankur2005/StudyGuard">
@@ -134,15 +142,6 @@ A browser extension and dashboard designed to track YouTube viewing activity, ca
 </p>
 
 </td>
-<td width="50%" valign="top">
-
-<h3 align="center">⌨️ SmartKeyboardSwitcher</h3>
-
-<p align="center">
-  <a href="https://github.com/dubeyankur2005/SmartKeyboardSwitcher">
-    <img src="https://img.shields.io/badge/Explore-SmartKeyboardSwitcher-06B6D4?style=for-the-badge&logo=github"/>
-  </a>
-</p>
 
 **Multi-Laptop Keyboard Switching**
 
