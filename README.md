@@ -1,22 +1,22 @@
- <h1 align="center">👋 Hi, I'm <span>Ankur Dubey</span></h1>
+ <h1 align="center">👋 Hi, I'm Ankur Dubey</h1>
 
-<h3 align="center">Java Developer | Full Stack Learner | DSA Problem Solver</h3>
+<h3 align="center">Java Developer | Full Stack Developer | DSA Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Java+Developer;Full+Stack+Web+Developer;DSA+Problem+Solver;React+and+Node.js+Learner;Always+Learning+New+Things" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Java+Developer;Full+Stack+Web+Developer;DSA+Problem+Solver;Learning+System+Design;Exploring+Forward+Deployed+Engineering;Always+Learning+New+Things" alt="Typing animation"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DSA-Problem_Solving-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/DSA-Problem_Solving-8B5CF6?style=for-the-badge" alt="DSA"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ankur-dubey-098525404/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:dubeyankur6961@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/dubeyankur2005"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ankur-dubey-098525404/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:dubeyankur6961@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/dubeyankur2005"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <p align="center">
@@ -31,13 +31,15 @@
 <tr>
 <td width="50%" valign="top">
 
-I'm a final-year B.Tech Computer Science Engineering student passionate about building real-world projects, solving DSA problems, and learning new technologies.
+I'm a final-year B.Tech Computer Science Engineering student passionate about building real-world applications, solving DSA problems, and exploring software architecture.
 
-- 🎓 Final Year B.Tech (CSE)
+- 🎓 Final-year B.Tech (CSE)
 - 🏫 G.H. Raisoni College of Engineering & Management, Pune
-- 💻 Primary Language: Java
-- 🎯 Goal: Become a strong software developer
-- ⚡ Fun Fact: I love solving problems and building projects
+- 💻 Primary language: Java
+- 🧩 Interested in problem-solving and software development
+- 📐 Currently learning System Design
+- 🚀 Exploring Forward Deployed Engineering (FDE)
+- 🎯 Goal: Build impactful, reliable software
 
 </td>
 <td width="50%" valign="top">
@@ -62,11 +64,13 @@ class Developer {
         "MongoDB"
     };
 
-    String focus =
-        "DSA + Full Stack Development";
+    String[] currentlyLearning = {
+        "System Design",
+        "Forward Deployed Engineering"
+    };
 
     String goal =
-        "Build useful software";
+        "Build impactful software";
 }
 ```
 
@@ -75,36 +79,35 @@ class Developer {
 </table>
 
 ---
+
 ## 🚀 My Developer Journey
 
 <p align="center">
-  <img src="https://img.shields.io/badge/01-C%20Programming-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/01-C%20Programming-2563EB?style=for-the-badge" alt="C programming"/>
   →
-  <img src="https://img.shields.io/badge/02-Java%20Development-F59E0B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/02-Java%20Development-F59E0B?style=for-the-badge" alt="Java"/>
   →
-  <img src="https://img.shields.io/badge/03-DSA-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/03-DSA-7C3AED?style=for-the-badge" alt="DSA"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/04-Full%20Stack%20Development-06B6D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/04-Full%20Stack%20Development-06B6D4?style=for-the-badge" alt="Full stack development"/>
   →
-  <img src="https://img.shields.io/badge/05-System%20Design-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/05-System%20Design-0EA5E9?style=for-the-badge" alt="System Design"/>
   →
-  <img src="https://img.shields.io/badge/06-Forward%20Deployed%20Engineering-EC4899?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/06-Forward%20Deployed%20Engineering-EC4899?style=for-the-badge" alt="Forward Deployed Engineering"/>
 </p>
 
 <p align="center">
-  <b>🎯 Current Focus: System Design • Forward Deployed Engineering (FDE) • Building Real-World Projects</b>
+  <b>🎯 Current Focus: System Design • Forward Deployed Engineering • Real-World Projects</b>
 </p>
-
----
 
 ---
 
 # 🚀 Major Projects
 
 <p align="center">
-  <b>Projects that demonstrate my problem-solving skills, technical knowledge, and ability to build practical applications.</b>
+  <b>Projects that demonstrate my technical skills, practical problem-solving, and interest in building useful applications.</b>
 </p>
 
 <table>
@@ -115,20 +118,20 @@ class Developer {
 
 <p align="center">
   <a href="https://github.com/dubeyankur2005/StudyGuard">
-    <img src="https://img.shields.io/badge/Explore-StudyGuard-06B6D4?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Explore-StudyGuard-06B6D4?style=for-the-badge&logo=github" alt="StudyGuard repository"/>
   </a>
 </p>
 
 **YouTube Study Tracker with Study Mode**
 
-StudyGuard helps users manage YouTube learning sessions, track study activity, and distinguish educational content from entertainment.
+StudyGuard is designed to help users monitor YouTube activity, track learning time, and understand their study habits.
 
 **⭐ Main Feature: Study Mode**
 
 - 🎯 Dedicated mode for focused YouTube learning sessions
 - 📚 Track study videos and learning time
-- 📊 Categorize study and entertainment activity
-- 📈 Monitor progress through an analytics dashboard
+- 🎬 Categorize study and entertainment activity
+- 📊 Analyze learning activity through a dashboard
 - 🔐 User authentication for personalized tracking
 
 **Tech Stack**
@@ -137,27 +140,38 @@ StudyGuard helps users manage YouTube learning sessions, track study activity, a
 
 <p align="center">
   <a href="https://github.com/dubeyankur2005/StudyGuard">
-    <img src="https://img.shields.io/badge/💻%20View%20Code-2563EB?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/💻%20View%20Code-2563EB?style=for-the-badge" alt="StudyGuard code"/>
   </a>
 </p>
 
 </td>
+<td width="50%" valign="top">
 
-**Multi-Laptop Keyboard Switching**
-
-A project designed to control keyboard input across multiple laptops. The prototype has been tested with two laptops.
-
-**Tech Stack**
-
-`Python` `OpenCV` `Input Automation`
-
-- Switch keyboard input between laptops
-- Prototype tested on two laptops
-- Future scope: vision-based switching
+<h3 align="center">⌨️ SmartKeyboardSwitcher</h3>
 
 <p align="center">
   <a href="https://github.com/dubeyankur2005/SmartKeyboardSwitcher">
-    <img src="https://img.shields.io/badge/💻%20View%20Code-2563EB?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Explore-SmartKeyboardSwitcher-06B6D4?style=for-the-badge&logo=github" alt="SmartKeyboardSwitcher repository"/>
+  </a>
+</p>
+
+**Multi-Laptop Keyboard Switching**
+
+A prototype designed to switch keyboard input between multiple laptops, tested with two laptops.
+
+**Key Features**
+
+- ⌨️ Switch keyboard input between laptops
+- 💻 Prototype tested across two laptops
+- 🔭 Future scope for vision-based switching
+
+**Technology Focus**
+
+`Python` `Input Automation` `Computer Vision`
+
+<p align="center">
+  <a href="https://github.com/dubeyankur2005/SmartKeyboardSwitcher">
+    <img src="https://img.shields.io/badge/💻%20View%20Code-7C3AED?style=for-the-badge" alt="SmartKeyboardSwitcher code"/>
   </a>
 </p>
 
@@ -169,25 +183,27 @@ A project designed to control keyboard input across multiple laptops. The protot
 <h3 align="center">🌦️ Edge AI Weather Monitoring</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-Edge%20Computing-06B6D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-Edge%20Computing-06B6D4?style=for-the-badge" alt="Edge AI"/>
 </p>
 
-**IoT + AI-Based Resilient Aggregation**
+**IoT-Based Resilient Weather Data Aggregation**
 
-A weather-monitoring system concept focused on reliable aggregation of sensor data, anomaly detection, and real-time analytics.
+A project focused on weather-data monitoring, resilient aggregation, and anomaly analysis.
+
+**Key Features**
+
+- 🌡️ Monitor weather parameters
+- 📈 Visualize weather trends
+- 🚨 Identify anomalous readings
+- 🔄 Explore resilient data aggregation
 
 **Technology Focus**
 
-`Python` `AI/ML` `IoT` `React`
-
-- Monitor weather parameters
-- Detect anomalous readings
-- Analyze weather trends
-- Visualize aggregated results
+`Python` `AI/ML` `IoT` `React` `Recharts`
 
 <p align="center">
-  <a href="https://github.com/dubeyankur2005">
-    <img src="https://img.shields.io/badge/🔎%20Find%20Repository-2563EB?style=for-the-badge"/>
+  <a href="https://github.com/dubeyankur2005?tab=repositories">
+    <img src="https://img.shields.io/badge/Find%20Project-2563EB?style=for-the-badge" alt="Find weather project"/>
   </a>
 </p>
 
@@ -197,25 +213,27 @@ A weather-monitoring system concept focused on reliable aggregation of sensor da
 <h3 align="center">▶️ YouTube Notes Generator</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-Content%20Summarization-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-Content%20Summarization-8B5CF6?style=for-the-badge" alt="AI summarization"/>
 </p>
 
-**AI-Powered Notes & Summarization**
+**AI-Powered Notes and Summarization**
 
-A web application concept for turning YouTube video content into concise, structured notes using generative AI.
+A web application concept for turning YouTube content into concise, structured notes using generative AI.
+
+**Key Features**
+
+- 📝 Generate concise summaries
+- 📚 Organize learning notes
+- ⚡ Support faster revision
+- 🤖 Apply generative AI to learning
 
 **Technology Focus**
 
 `React` `Node.js` `Gemini API`
 
-- Generate concise summaries
-- Organize learning notes
-- Support faster revision
-- Apply generative AI to learning
-
 <p align="center">
-  <a href="https://github.com/dubeyankur2005">
-    <img src="https://img.shields.io/badge/🔎%20Find%20Repository-2563EB?style=for-the-badge"/>
+  <a href="https://github.com/dubeyankur2005?tab=repositories">
+    <img src="https://img.shields.io/badge/Find%20Project-2563EB?style=for-the-badge" alt="Find notes generator project"/>
   </a>
 </p>
 
@@ -225,7 +243,7 @@ A web application concept for turning YouTube video content into concise, struct
 
 <p align="center">
   <a href="https://github.com/dubeyankur2005?tab=repositories">
-    <img src="https://img.shields.io/badge/🚀%20VIEW%20ALL%20REPOSITORIES-00BFFF?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🚀%20VIEW%20ALL%20REPOSITORIES-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/>
   </a>
 </p>
 
@@ -234,7 +252,7 @@ A web application concept for turning YouTube video content into concise, struct
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,html,css,tailwind,bootstrap,react,nodejs,express,mongodb,git,github,vscode&perline=8" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,html,css,tailwind,bootstrap,react,nodejs,express,mongodb,git,github,vscode&perline=8" alt="Technology stack"/>
 </p>
 
 ---
@@ -243,13 +261,13 @@ A web application concept for turning YouTube video content into concise, struct
 
 <p align="center">
   <a href="https://www.hackerrank.com/certificates/f7f60c68304c">
-    <img src="https://img.shields.io/badge/Java-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Java certificate"/>
   </a>
   <a href="https://www.hackerrank.com/certificates/16b36889f33f">
-    <img src="https://img.shields.io/badge/JavaScript-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="JavaScript certificate"/>
   </a>
   <a href="CERTIFICATE_LINK_3">
-    <img src="https://img.shields.io/badge/SQL-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="SQL certificate"/>
   </a>
 </p>
 
@@ -259,10 +277,10 @@ A web application concept for turning YouTube video content into concise, struct
 
 <p align="center">
   <a href="https://leetcode.com/u/AnkurDubey2005/">
-    <img src="https://img.shields.io/badge/LeetCode-AnkurDubey2005-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-AnkurDubey2005-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://www.geeksforgeeks.org/profile/dubeyanka7mv">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-dubeyanka7mv-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-dubeyanka7mv-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
 </p>
 
@@ -315,6 +333,6 @@ A web application concept for turning YouTube video content into concise, struct
 
 <p align="center">
   <a href="https://github.com/dubeyankur2005?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Work-Visit%20GitHub-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Explore%20My%20Work-Visit%20GitHub-181717?style=for-the-badge&logo=github" alt="Explore repositories"/>
   </a>
 </p>
